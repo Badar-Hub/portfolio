@@ -1,7 +1,7 @@
 <template>
   <div class="main-bar">
       <div class="bar">
-          <slot></slot>
+            <h3>Call Us Today! +92 51 5707101</h3> <h3> | </h3> <h3> bilalenterprises@live.com </h3> <h3> | </h3> <h3> Contact Us </h3>
       </div>
   </div>
 </template>

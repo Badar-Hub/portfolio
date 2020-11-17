@@ -1,8 +1,6 @@
 <template>
   <div>
-      <bar>
-      <h3>Call Us Today! +92 51 5707101</h3> <h3> | </h3> <h3> bilalenterprises@live.com </h3> <h3> | </h3> <h3> Contact Us </h3>
-      </bar> 
+      <bar/>
       <header-view/>
       <slider/>
       <img class="brand-img" src="@/assets/img/brand-logo/ultradent.png" alt="ultradent">
