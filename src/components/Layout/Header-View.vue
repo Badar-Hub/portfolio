@@ -1,7 +1,7 @@
 <template>
   <div class="mainHeader">
       <div class="headerview">
-          <img src="@/assets/img/logo.jpg" alt="logo">
+          <a href="/"><img src="@/assets/img/logo.jpg" alt="logo"></a>
           <div class="navi">
             <nav>
                   <ul>
