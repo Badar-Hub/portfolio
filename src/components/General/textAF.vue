@@ -1,9 +1,6 @@
 <template>
   <div>
-      <h4>
-          WE AT “BILAL ENTERPRISES” BELIEVE IN PROVIDING OUR CUSTOMERS TOP QUALITY BRANDS OF DIFFERENT SPECIFICATIONS.
-          WE BELIEVE IN QUALITY SERVICES TO OUR VALUED CLIENTS
-      </h4>
+      <slot></slot>
   </div>
 </template>
 

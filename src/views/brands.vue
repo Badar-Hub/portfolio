@@ -9,9 +9,8 @@
            <p><strong>Who is Ultradent?</strong></p> 
            <p>Our passion to improve oral health has made Ultradent into the incredible company it is today. Ultradent is a global dental and orthodontic manufacturing company that has experienced non-stop growth for over 30 years, and is driven for continued growth! </p> 
       </div>
-      <bar style="background-color:#282a2b; color:white; padding:5px">
-      <h3>Copyright 2018 - 2019 Bilal Enterprises | All Rights Reserved</h3>
-      </bar>
+      <card-slider-carousel/>
+      <footerview />
   </div>
 </template>
 
@@ -19,14 +18,17 @@
 import Slider from '../components/General/Slider.vue'
 import Bar from '../components/Layout/bar.vue'
 import HeaderView from '../components/Layout/Header-View.vue'
+import footerview from '../components/Layout/footer.vue'
+import CardSliderCarousel from '../components/General/cardSliderCarousel.vue'
 export default {
-  components: { HeaderView ,Slider, Bar },
+  components: { HeaderView ,Slider, Bar, footerview, CardSliderCarousel },
 
 }
 </script>
 
 <style scoped>
-.brand-img {
+.b,
+    CardSliderCarouselrand-img {
     display: flex;
     max-width: 300px;
     margin: auto;

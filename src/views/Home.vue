@@ -7,7 +7,12 @@
     <slider />
     <hr style="margin:0px; color:black"/>
     <div>
-      <TextAf />
+      <TextAf>
+        <h4>
+          WE AT “BURUJ” BELIEVE IN PROVIDING OUR CUSTOMERS TOP QUALITY BRANDS OF DIFFERENT SPECIFICATIONS.
+          WE BELIEVE IN QUALITY SERVICES TO OUR VALUED CLIENTS
+       </h4>
+      </TextAf>
       <hr style="color:black" />
     </div>
     <category />
