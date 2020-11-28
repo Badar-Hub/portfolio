@@ -1,18 +1,24 @@
 <template>
   <div>
-      <div class="category-main">
+      <div class="main-category">
           <div class="category">
-              <img src="@/assets/img/innovative-products.png" alt="ideas">
+              <div class="img">
+                <img src="@/assets/img/innovative-products.png" alt="ideas">
+              </div>
               <h2>INNOVATIVE PRODUCTS</h2>
               <p>QUALITY BRANDS FROM AROUND THE WORLD!</p>
           </div>
           <div class="category">
-              <img src="@/assets/img/market-presentation.png" alt="marketing">
+              <div class="img">
+                  <img src="@/assets/img/market-presentation.png" alt="marketing">
+              </div>
               <h2>MARKET PENETRATION</h2>
               <p>QUALITY BRANDS FROM AROUND THE WORLD!</p>
           </div>
           <div class="category">
-              <img src="@/assets/img/iconfinder_scoring-satisfaction-point-star-level_3709731.png" alt="satisfaction">
+              <div class="img">
+                <img src="@/assets/img/iconfinder_scoring-satisfaction-point-star-level_3709731.png" alt="satisfaction">
+              </div>
               <h2>CLIENT SATISFACTION</h2>
               <p>QUALITY BRANDS FROM AROUND THE WORLD!</p>
           </div>
@@ -27,33 +33,25 @@ export default {
 </script>
 
 <style scoped>
-.category-main {
-    display: flex;
-    max-width: 1200px;
-    justify-content: center;
-    margin: auto;
-    padding: 40px 0;
-}
-.category {
+.main-category {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    max-width: 1200px;
     margin: auto;
-    width: 50%;
+    padding: 3% 0;
 }
-h3{
-    font-size: 18px;
-    font-weight: bold;
-    margin: auto;
+
+.category {
+    text-align: center;
 }
-p{
-    font-size: 14px;
-    margin: auto;
-}
-img{
-    margin: auto;
-    background-color: rgb(139, 139, 139);
+
+.category img{
+    background-color: rgb(172, 172, 172);
     border-radius: 50%;
-    width: 100%;
-    max-width: 200px;
+}
+
+.img {
+    background-color: white;
 }
 </style>
+
