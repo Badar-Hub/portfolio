@@ -7,14 +7,14 @@
                   <ul>
                     <li><a href="/">Home</a></li>
                     <li><a href="/#/about">About Us</a></li>
-                    <li><a href="/#/about">Dental</a></li>
-                    <li><a href="/#/about">Hydrate</a></li>
-                    <li><a href="/#/about">Medical</a></li>
-                    <li><a href="/#/about">Multivitamin</a></li>
-                    <li><a href="/#/about">Food Items</a></li>
-                    <li><a href="/#/about">Footwear</a></li>
-                    <li><a href="/#/about">Optics</a></li>
-                    <li><a href="/#/brands">Watches</a></li>
+                    <li><a href="/#/dental">Dental</a></li>
+                    <li><a href="/#/hydrate">Hydrate</a></li>
+                    <li><a href="/#/medical">Medical</a></li>
+                    <li><a href="/#/multivitamin">Multivitamin</a></li>
+                    <li><a href="/#/fooditems">Food Items</a></li>
+                    <li><a href="/#/footwear">Footwear</a></li>
+                    <li><a href="/#/optics">Optics</a></li>
+                    <li><a href="/#/watches">Watches</a></li>
                     <li><a href="/#/contact-us">Contact Us</a></li>
                   </ul>
             </nav>

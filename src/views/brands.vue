@@ -2,7 +2,12 @@
   <div>
       <bar/>
       <header-view/>
-      <slider/>
+      <slider>
+        <q-carousel-slide :name="1" img-src="https://cdn.quasar.dev/img/mountains.jpg" />
+        <q-carousel-slide :name="2" img-src="https://cdn.quasar.dev/img/parallax1.jpg" />
+        <q-carousel-slide :name="3" img-src="https://cdn.quasar.dev/img/parallax2.jpg" />
+        <q-carousel-slide :name="4" img-src="https://cdn.quasar.dev/img/quasar.jpg" />
+      </slider>
       <img class="brand-img" src="@/assets/img/brand-logo/ultradent.png" alt="ultradent">
       <div class="brand-info">
 
