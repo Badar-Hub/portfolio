@@ -27,8 +27,7 @@ export default {
 </script>
 
 <style scoped>
-.b,
-    CardSliderCarouselrand-img {
+.brand-img{ 
     display: flex;
     max-width: 300px;
     margin: auto;
