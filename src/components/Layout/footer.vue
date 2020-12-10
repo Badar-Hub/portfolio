@@ -15,7 +15,7 @@ export default {
 <style scoped>
 
 .main-bar{
-    background-color: black;
+    background-color: #5b0931;
 }
 
 .bar{

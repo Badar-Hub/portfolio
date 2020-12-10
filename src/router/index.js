@@ -35,19 +35,9 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/contact.vue')
   },
   {
-    path: '/Dental',
-    name: 'Dental',
-    component: () => import( '../views/Dental.vue')
-  },
-  {
-    path: '/Hydrate',
-    name: 'Hydrate',
-    component: () => import( '../views/Hydrate.vue')
-  },
-  {
-    path: '/Medical',
-    name: 'Medical',
-    component: () => import( '../views/Medical.vue')
+    path: '/cosmetics',
+    name: 'cosmetics',
+    component: () => import( '../views/Cosmetics.vue')
   },
   {
     path: '/Multivitamin',
@@ -55,24 +45,9 @@ const routes = [
     component: () => import( '../views/Multivitamin.vue')
   },
   {
-    path: '/Fooditems',
-    name: 'Fooditems',
-    component: () => import( '../views/FoodItems.vue')
-  },
-  {
     path: '/Footwear',
     name: 'Footwear',
     component: () => import( '../views/Footwear.vue')
-  },
-  {
-    path: '/Optics',
-    name: 'Optics',
-    component: () => import( '../views/Optics.vue')
-  },
-  {
-    path: '/Watches',
-    name: 'Watches',
-    component: () => import( '../views/Watches.vue')
   }
 ]
 
