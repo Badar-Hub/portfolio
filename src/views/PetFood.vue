@@ -5,7 +5,7 @@
     <slider>
       <q-carousel-slide
         :name="1"
-        img-src="https://floslek.pl/modules/anthemeblocks/images/5fec7d77da78d.jpg"
+        img-src="https://probalancepetfood.com/wp-content/uploads/2020/02/home-new-probalance-bg-img-2-842x532.png"
       />
     </slider>
     <img

@@ -8,7 +8,8 @@
       <q-carousel-slide :name="1" img-src="https://www.natrol.pk/wp-content/uploads/2019/07/nsf1.jpg" />
       <q-carousel-slide :name="2" img-src="https://www.astramakeup.com/modules/jscomposer/uploads/pb-header.jpg" />
       <q-carousel-slide :name="3" img-src="https://www.segashoes.com/media/revslider/breeze.png" />
-      <q-carousel-slide :name="4" img-src="https://cdn.quasar.dev/img/quasar.jpg" />
+      <q-carousel-slide :name="4" img-src="https://floslek.pl/modules/anthemeblocks/images/5fec7d77da78d.jpg" />
+      <q-carousel-slide :name="5" img-src="https://probalancepetfood.com/wp-content/uploads/2020/02/home-new-probalance-bg-img-2-842x532.png" />
     </slider>
     <hr style="margin:0px; color:black"/>
     <div>
