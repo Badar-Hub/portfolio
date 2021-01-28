@@ -7,6 +7,8 @@
                 <router-link to="about">About Us</router-link>
                 <router-link to="multivitamin">Multivitamin</router-link>
                 <router-link to="cosmetics">Cosmetics</router-link>
+                <router-link to="skincare">Skin Care</router-link>
+                <router-link to="petfood">Pet Food</router-link>
                 <router-link to="footwear">Footwear</router-link>
                 <router-link to="contact-us">Contact Us</router-link>
             </nav>

@@ -43,79 +43,24 @@
         Private Hospitals and institutes.
       </p> 
 
-      <strong>We are proud distributors of famous dental companies which includes:</strong>
-      <div class="bulet">
-        <li> Ultradent</li>
-        <li>Microbrush</li>
-        <li>Young Dental</li>
-        <li>Dentsply Sirona</li>
-        <li>Horico</li>
-        <li>SS White Dental</li>
-        <li>Dental Film</li>
-        <li>Bausch</li>
-        <li>Surgical Specialties</li>
-        <li>Curaprox</li>
-        <li>Flow Dental</li>
-        <li>Dentamerica</li>
-        <li>Palmero Healthcare</li>
-        <li>Dentonics</li>
-        <li>Microcopy</li>
-      </div>
-
-      <div class="grrow"> 
-        <img src="@/assets/img/brand-logo/ultradent.png" alt="ultradent">
-        <img src="@/assets/img/brand-logo/microbrush.png" alt="microbrush">
-        <img src="@/assets/img/brand-logo/young.jpg" alt="young">
-      </div>
-      <div class="grrow"> 
-        <img src="@/assets/img/brand-logo/dentsply.png" alt="dentsply">
-        <img src="@/assets/img/brand-logo/horico.jpg" alt="microbrush">
-        <img src="@/assets/img/brand-logo/sswhite.png" alt="sswhite">
-      </div>
-      <div class="grrow"> 
-        <img src="@/assets/img/brand-logo/dentalfilm.jpg" alt="dentalfilm">
-        <img src="@/assets/img/brand-logo/bausch.png" alt="bausch">
-        <img src="@/assets/img/brand-logo/ss.png" alt="ss">
-      </div>
-      <div class="grrow"> 
-        <img src="@/assets/img/brand-logo/curaprox.gif" alt="curaprox">
-        <img src="@/assets/img/brand-logo/flow.png" alt="dental-flow">
-        <img src="@/assets/img/brand-logo/dentamerica.jpg" alt="dentamerica">
-      </div>
-      <div class="grrow"> 
-        <img src="@/assets/img/brand-logo/dentonics.png" alt="dentonics">
-        <img src="@/assets/img/brand-logo/Palmero.jpg" alt="Palmero">
-        <img src="@/assets/img/brand-logo/microcopy.png" alt="microcopy">
-      </div>
-
-      <br />
-      <br />
-
-      <strong> We are proud distributors of other famous companies which includes:</strong> 
+      <strong> We are proud distributors of the famous companies which includes:</strong> 
       <div class="bulet">
         <li>Natrol</li>
-        <li>Salomon</li>
-        <li>Suunto</li>
-        <li>Saucony</li>
-        <li>Casa Mexicana</li>
-        <li>OrthoFeet</li>
-        <li>Birkenstock</li>
+        <li>Astra</li>
+        <li>Sega</li>
+        <li>Floslek</li>
+        <li>Pro Balance</li>
       </div>
 
       <div class="grrow"> 
-        <img src="@/assets/img/brand-logo/salomon.png" alt="salomon">
-        <img src="@/assets/img/brand-logo/suntoo.png" alt="suntoo">
-        <img src="@/assets/img/brand-logo/saucony.png" alt="saucony">
-      </div>
-      <div class="grrow"> 
         <img src="@/assets/img/brand-logo/natrol.png" alt="natrol">
-        <img src="@/assets/img/brand-logo/orthofeet.png" alt="orthofeet">
-        <img src="@/assets/img/brand-logo/casa.png" alt="casa">
+        <img src="@/assets/img/brand-logo/astra.jpg" alt="orthofeet">
+        <img src="@/assets/img/brand-logo/sega.jpg" alt="casa">
       </div>
       <div class="grrow"> 
-        <img src="@/assets/img/brand-logo/birkenstock.jpg" alt="birkenstock">
+        <img src="@/assets/img/brand-logo/floslek.svg" alt="birkenstock">
+        <img src="@/assets/img/brand-logo/probalance.png" alt="birkenstock">
       </div>
-      
   </div>
   <footerview />
 </div>

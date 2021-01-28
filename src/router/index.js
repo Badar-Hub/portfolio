@@ -48,6 +48,16 @@ const routes = [
     path: '/Footwear',
     name: 'Footwear',
     component: () => import( '../views/Footwear.vue')
+  },
+  {
+    path: '/skincare',
+    name: 'Skincare',
+    component: () => import( '../views/Floslek.vue')
+  },
+  {
+    path: '/petfood',
+    name: 'Pet Food',
+    component: () => import( '../views/PetFood.vue')
   }
 ]
 
