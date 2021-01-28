@@ -5,9 +5,9 @@
     <HeaderView />
     <hr style="margin:0px"/>
     <slider>
-      <q-carousel-slide :name="1" img-src="https://cdn.quasar.dev/img/mountains.jpg" />
-      <q-carousel-slide :name="2" img-src="https://cdn.quasar.dev/img/parallax1.jpg" />
-      <q-carousel-slide :name="3" img-src="https://cdn.quasar.dev/img/parallax2.jpg" />
+      <q-carousel-slide :name="1" img-src="https://www.natrol.pk/wp-content/uploads/2019/07/nsf1.jpg" />
+      <q-carousel-slide :name="2" img-src="https://www.astramakeup.com/modules/jscomposer/uploads/pb-header.jpg" />
+      <q-carousel-slide :name="3" img-src="https://www.segashoes.com/media/revslider/breeze.png" />
       <q-carousel-slide :name="4" img-src="https://cdn.quasar.dev/img/quasar.jpg" />
     </slider>
     <hr style="margin:0px; color:black"/>

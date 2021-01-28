@@ -4,14 +4,11 @@
           <a href="/"><img class="logo" src="@/assets/img/logo.png" alt="logo"></a>
           <div class="navi">
             <nav class="desktop">
-                  <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/#/about">About Us</a></li>
-                    <li><a href="/#/multivitamin">Multivitamin</a></li>
-                    <li><a href="/#/cosmetics">Cosmetics</a></li>
-                    <li><a href="/#/footwear">Footwear</a></li>
-                    <li><a href="/#/contact-us">Contact Us</a></li>
-                  </ul>
+                <router-link to="about">About Us</router-link>
+                <router-link to="multivitamin">Multivitamin</router-link>
+                <router-link to="cosmetics">Cosmetics</router-link>
+                <router-link to="footwear">Footwear</router-link>
+                <router-link to="contact-us">Contact Us</router-link>
             </nav>
             <nav class="mobile">
                 <ul class="mobile">
@@ -41,6 +38,10 @@ export default {
 <style scoped>
 .mainHeader{
     background-color: white;
+}
+
+.desktop .navi a {
+    padding-right: 15px;
 }
 
 .headerview {

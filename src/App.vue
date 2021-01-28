@@ -60,4 +60,8 @@ h2{
     font-weight: bold!important;
     margin: auto;
 }
+.q-carousel__slide{
+  background-position: unset !important;;
+}
+
 </style>
