@@ -3,10 +3,7 @@
     <bar />
     <header-view />
     <slider>
-      <q-carousel-slide
-        :name="1"
-        img-src="https://probalancepetfood.com/wp-content/uploads/2020/02/home-new-probalance-bg-img-2-842x532.png"
-      />
+     <q-carousel-slide :name="1" :style="`background-image: url(${require(`@/assets/img/slider/05.png`)})`" />
     </slider>
     <img
       class="brand-img"

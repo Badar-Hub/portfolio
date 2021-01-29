@@ -3,7 +3,7 @@
       <bar/>
       <header-view/>
       <slider>
-        <q-carousel-slide :name="1" img-src="https://www.natrol.pk/wp-content/uploads/2019/07/nsf1.jpg" />
+        <q-carousel-slide :name="1" :style="`background-image: url(${require(`@/assets/img/slider/01.jpg`)})`" />
       </slider>
       <img class="brand-img" src="@/assets/img/brand-logo/natrol.png" alt="natrol">
       <div class="brand-info">

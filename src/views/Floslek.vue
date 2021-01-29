@@ -3,10 +3,7 @@
     <bar />
     <header-view />
     <slider>
-      <q-carousel-slide
-        :name="1"
-        img-src="https://floslek.pl/modules/anthemeblocks/images/5fec7d77da78d.jpg"
-      />
+      <q-carousel-slide :name="1" :style="`background-image: url(${require(`@/assets/img/slider/04.jpg`)})`" />
     </slider>
     <img
       class="brand-img"

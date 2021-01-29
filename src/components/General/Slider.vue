@@ -1,6 +1,7 @@
 <template>
   <div>
     <q-carousel
+      height="500px"
       animated
       v-model="slide"
       navigation

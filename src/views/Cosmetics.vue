@@ -3,7 +3,7 @@
       <bar/>
       <header-view/>
       <slider>
-        <q-carousel-slide :name="1" img-src="https://www.astramakeup.com/modules/jscomposer/uploads/pb-header.jpg" />
+        <q-carousel-slide :name="1" :style="`background-image: url(${require(`@/assets/img/slider/02.jpg`)})`" />
       </slider>
       <img class="brand-img" src="@/assets/img/brand-logo/astra.jpg" alt="astra">
       <div class="brand-info">
