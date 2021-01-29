@@ -3,7 +3,7 @@
       <div class="bar">
         <div class="subbar">
             <div class="row">
-                <h3>Call Us Today! +923335801868</h3> <h3> | </h3> <h3> buruj@live.com </h3> <h3> | </h3> <h3> Contact Us </h3>
+                <h3>Call Us Today! +923335801868</h3> <h3> | </h3> <h3> info@buruj.pk </h3> <h3> | </h3> <h3> Contact Us </h3>
             </div>
             <div class="row">
                 <h3>Let's stay connected:</h3>
