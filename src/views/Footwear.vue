@@ -3,7 +3,7 @@
       <bar/>
       <header-view/>
       <slider>
-        <q-carousel-slide :name="1" :style="`background-image: url(${require(`@/assets/img/slider/03.png`)})`" />
+        <q-carousel-slide :name="1" :style="`background-image: url(${require(`@/assets/img/slider/08.jpg`)})`" />
       </slider>
       <img class="brand-img" src="@/assets/img/brand-logo/sega.jpg" alt="sega">
       <div class="brand-info">
