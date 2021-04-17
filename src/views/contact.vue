@@ -35,8 +35,7 @@ import bar from '../components/Layout/bar.vue'
 import HeaderView from '../components/Layout/Header-View.vue'
 import footerview from '../components/Layout/footer.vue'
 export default {
-  components: { bar, HeaderView, footerview },
-
+  components: { bar, HeaderView, footerview }
 }
 </script>
 

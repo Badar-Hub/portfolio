@@ -27,7 +27,6 @@ import footerview from '../components/Layout/footer.vue'
 import CardSliderCarousel from '../components/General/cardSliderCarousel.vue'
 export default {
   components: { HeaderView ,Slider, Bar, footerview, CardSliderCarousel },
-
 }
 </script>
 

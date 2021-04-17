@@ -13,12 +13,6 @@
   </div>
 </template>
 
-<script>
-export default {
-
-}
-</script>
-
 <style scoped>
 .subpagebarmain{
     background-image: url(../../assets/img/pagetitlebar.png);

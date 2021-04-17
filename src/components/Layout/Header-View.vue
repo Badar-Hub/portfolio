@@ -32,11 +32,6 @@
   </div>
 </template>
 
-<script>
-export default {
-}
-</script>
-
 <style scoped>
 .mainHeader{
     background-color: white;

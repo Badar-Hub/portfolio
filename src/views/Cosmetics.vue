@@ -42,10 +42,7 @@ import HeaderView from "../components/Layout/Header-View.vue";
 import footerview from "../components/Layout/footer.vue";
 import PhotoGrid from "../components/General/photoGrid.vue";
 export default {
-  components: { HeaderView, Slider, Bar, footerview, PhotoGrid },
-
-  mounted() {
-  }
+  components: { HeaderView, Slider, Bar, footerview, PhotoGrid }
 };
 </script>
 

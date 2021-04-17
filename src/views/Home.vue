@@ -44,10 +44,6 @@ export default {
     TextAf,
     Category,
     footerview
-  },
-
-  data () {
-    
   }
 }
 </script>

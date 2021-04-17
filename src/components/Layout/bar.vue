@@ -17,12 +17,6 @@
   </div>
 </template>
 
-<script>
-export default {
-
-}
-</script>
-
 <style scoped>
 .bar{
     background-color: #5c0931;
