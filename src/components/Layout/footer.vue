@@ -1,7 +1,7 @@
 <template>
   <div class="main-bar">
       <div class="bar">
-            <h3>Copyright 2020 - 2021 Buruj | All Rights Reserved</h3>
+            <h3>Copyright 2020 - 2021 Rimsha LLC | All Rights Reserved</h3>
       </div>
   </div>
 </template>
