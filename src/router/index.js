@@ -40,11 +40,6 @@ const routes = [
     component: () => import( '../views/Cosmetics.vue')
   },
   {
-    path: '/Multivitamin',
-    name: 'Multivitamin',
-    component: () => import( '../views/Multivitamin.vue')
-  },
-  {
     path: '/Footwear',
     name: 'Footwear',
     component: () => import( '../views/Footwear.vue')

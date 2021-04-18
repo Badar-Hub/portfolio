@@ -5,7 +5,6 @@
     <HeaderView />
     <hr style="margin:0px"/>
     <slider>
-      <q-carousel-slide :name="1" :style="`background-image: url(${require(`@/assets/img/slider/01.jpg`)})`" />
       <q-carousel-slide :name="2" :style="`background-image: url(${require(`@/assets/img/slider/02.jpg`)})`" />
       <q-carousel-slide :name="3" :style="`background-image: url(${require(`@/assets/img/slider/07.jpg`)})`" />
       <q-carousel-slide :name="4" :style="`background-image: url(${require(`@/assets/img/slider/04.jpg`)})`" />

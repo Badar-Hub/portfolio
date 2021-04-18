@@ -1,11 +1,10 @@
 <template>
   <div class="mainHeader">
       <div class="headerview">
-          <a href="/"><img class="logo" src="@/assets/img/logo.png" alt="logo"></a>
+          <router-link to="/"><img class="logo" src="@/assets/img/logo.png" alt="logo"></router-link>
           <div class="navi">
             <nav class="desktop">
                 <router-link to="about">About Us</router-link>
-                <router-link to="/multivitamin">Multivitamin</router-link>
                 <router-link to="/cosmetics">Cosmetics</router-link>
                 <router-link to="/skincare">Skin Care</router-link>
                 <router-link to="/petfood">Pet Food</router-link>
@@ -19,7 +18,6 @@
                     <li><a href="/#/dental">Dental</a></li>
                     <li><a href="/#/hydrate">Hydrate</a></li>
                     <li><a Shref="/#/medical">Medical</a></li>
-                    <li><a href="/#/multivitamin">Multivitamin</a></li>
                     <li><a href="/#/fooditems">Food Items</a></li>
                     <li><a href="/#/footwear">Footwear</a></li>
                     <li><a href="/#/optics">Optics</a></li>
